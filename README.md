@@ -4,5 +4,5 @@
 微信号：tenthgo
 
 
-![image](https://github.com/tenthgo/tenthgo/blob/master/QQ%E5%9B%BE%E7%89%8720170425142002.jpg)
+![weixin](https://github.com/tenthgo/tenthgo/blob/master/weixin.jpg)
 
