@@ -4,5 +4,5 @@
 微信号：
 
 
-![weixin](https://github.com/tenthgo/tenthgo/blob/master/weixin.jpg)
+![weixin](https://github.com/tenthgo/tenthgo/blob/master/weixi2n.jpg)
 
