@@ -1,5 +1,6 @@
 目录
-
-![weixin](https://github.com/tenthgo/bygc945/blob/master/contents/www.crxy.cn/c1.jpg)
-![weixin](https://github.com/tenthgo/bygc945/blob/master/contents/www.crxy.cn/c2.jpg)
-![weixin](https://github.com/tenthgo/bygc945/blob/master/contents/www.crxy.cn/c3.jpg)
+大数据网络课程班
+![weixin](bygc945/contents/www.crxy.cn/image/c1.jpg)
+![weixin](bygc945/contents/www.crxy.cn/image/c2.jpg)
+![weixin](bygc945/contents/www.crxy.cn/image/c3.jpg)
+![weixin](bygc945/contents/www.crxy.cn/image/c4.jpg)
